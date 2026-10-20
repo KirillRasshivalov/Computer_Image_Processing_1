@@ -143,4 +143,3 @@
 1. Гонсалес Р. С., Вудс Р. Э. Цифровая обработка изображений.
 2. OpenCV Documentation. Image Filtering — Median Blur:  
    https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html#ga564869aa33e58769b4469101bbc45832
-3. Методические указания к лабораторной работе №1 (компьютерная обработка изображений).
